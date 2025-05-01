@@ -25,3 +25,7 @@ body {
   font-size: 1.2em;
   text-align: left;
 }
+
+a.link-button, .link-button {
+  text-decoration: none;
+}
